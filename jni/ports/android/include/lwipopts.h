@@ -660,4 +660,6 @@
 */
 #define LWIP_NETIF_API                  1
 
+#define SOCKLEN_T_DEFINED
+
 #endif /* __LWIPOPTS_H__ */
